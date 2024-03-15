@@ -1,4 +1,5 @@
 TODO sipmplifier le glossaire/ou faire 2ieme glossaire pour avoir version legal (lourde a comprendre) et avec version simplifier
+TODO rajouter des abréviation
 
 **indemnité forfaitaire journalière** = **per diem** <br>
 couvre les frais suivants :
