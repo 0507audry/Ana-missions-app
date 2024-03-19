@@ -8,7 +8,7 @@ https://www.ejustice.just.fgov.be/eli/arrete/2013/12/19/2014200199/moniteur
     (version Wallone)
 
 https://www.ejustice.just.fgov.be/eli/arrete/2013/12/19/2014029106/moniteur
-    (sont Communauté française)
+    (version Communauté française)
         (.... les deux sont identiques)
 
 
