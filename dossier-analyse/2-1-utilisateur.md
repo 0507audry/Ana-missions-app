@@ -3,6 +3,8 @@ liste des utilisateurs:
 - **Chargé de mission** : crée l'ordre de mission
 - **Agent traitant** : Employé de la WBI qui encode et fait un suivi du dossier
 - **administrateur** : programmeur/gestionnaire de l'applications.
+- **????** : Accepte/confirmer ou non les changemetn que si accepter dans la DB
+
 
 Si vas assez loin dans l'analyse:
 

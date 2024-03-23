@@ -1,0 +1,21 @@
+## Cas d'users story ##
+
+titre
+
+en tant que $actor, je veux pouvoir $action ainsi $bénéfice
+
+- **Creation/modfication/chargement d'un profil de chargé de mission** : 
+En temps qu'agent, je dois pouvoir creer un utlisateur/modifier un utilisateur pour le soumettre au responsable de la DB
+
+- **Creation/modfication/chargement d'un utilisateur** : 
+En temps qu'agent, je veux créer/modifier une mission et que le budget/estimation des couts soit établie grace au donné introduite
+
+- **Introduction de ligne de budget** : 
+Possibilité d'introduire une ligne de budge pour pouvoir reserver une somme pour la mission (Si le montant total de la mission depasse ce qu'il rest dans la ligne de crédit, elle sera bloqué)
+
+- **Envoie d'un dossier vers odonnateurs** :
+Apres la création d'une mission, possibilité de l'envoyé vers les responsable pour acceptation
+
+### question ###
+comment appeler ceux qui confirme les changements dans la DB?
+on peut faire "creation/modfication/chargement" ? ou mieux faire des story differentes?
